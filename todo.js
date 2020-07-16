@@ -1,5 +1,5 @@
 const toDoForm = document.querySelector(".js-toDoForm"),
-    toDoInput = toDoForm.querySelector("input") //아까 이름이랑 안겹쳐야함. const라서
+    toDoInput = toDoForm.querySelector("input"),
     toDoList = document.querySelector(".js-toDoList");
 
 const TODOS_LS = "toDos";
