@@ -1,5 +1,5 @@
 # clock-webApp
-Cloning momentum using vanilla javascript
+Cloning momentum using Vanilla JS
 
 
 ## Screenshot
